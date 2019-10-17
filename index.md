@@ -22,7 +22,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and
+[另一个网站地址](https://starsalt.github.io/longtest/) and
 
 ![陈丹本人](https://starsalt.github.io/chendanweb/chendan.jpg)
 ```
