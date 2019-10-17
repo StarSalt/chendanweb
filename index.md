@@ -24,7 +24,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Link](url) and
 
-![test](https://starsalt.github.io/chendanweb/chendan.jpg)
+![test](chendan.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
