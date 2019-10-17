@@ -1,4 +1,4 @@
-## Chen Dan kiss my ass
+## Chen Dan kiss Long's ass
 
 臭臭的丹最喜欢这样的网站啦 [editor on GitHub](https://github.com/StarSalt/theametest/edit/master/index.md) ， 她也喜欢维护网站.
 
